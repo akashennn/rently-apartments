@@ -3,9 +3,7 @@
         class="grid grid-cols-1 md:grid-cols-2 md:gap-2 md:m-2 lg:grid-cols-3 lg:m-0 mb-[64px] md:mb-[76px] lg:mb-[12px]">
         <div v-for="(apartment, index) in apartments" :key="apartment.id"
             class="card bg-base-100 shadow-xl rounded-none" @click="navigateTo(`/apartments/${apartment.id}`)">
-            <figure class="rounded-none">
-                <img :src="apartment.image" :alt="apartment.title" class="object-cover h-[300px] w-full" />
-            </figure>
+            <img :src="apartment.image" :alt="apartment.title" class="object-cover h-[300px] w-full" />
 
             <div class="card-body">
                 <h2 class="card-title">
