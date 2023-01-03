@@ -1,0 +1,116 @@
+{
+    "apartments": [
+        {
+            "id": "Bijou",
+            "title": "Bijou",
+            "address": "2, Jalan Mat Jambol, 119554, Buona Vista",
+            "image": "https://sg1-cdn.pgimgs.com/listing/24259541/UPHO.138747968.V800/Bijou-Buona-Vista-West-Coast-Clementi-New-Town-Singapore.jpg",
+            "floor": 10,
+            "doorNumber": 3,
+            "inventory": [
+                {
+                    "id": "Samsung-LED-TV",
+                    "name": "Samsung LED TV",
+                    "image": "https://images.samsung.com/is/image/samsung/in-uhdtv-nu7100-ua65nu7100klxl-185768426?$650_519_PNG$",
+                    "quantity": 1
+                },
+                {
+                    "id": "Samsung-Blu-Ray-Player",
+                    "name": "Samsung Blu Ray Player",
+                    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2008/07/8268-HTBD2front-1.jpg",
+                    "quantity": 1
+                }
+            ]
+        },
+        {
+            "id": "Sun-Plaza",
+            "title": "Sun Plaza",
+            "address": "30, Sembawang Drive, 757713, Sembawang",
+            "image": "https://sg2-cdn.pgimgs.com/projectnet-project/5516/ZPPHO.96890235.R550X550/Sun-Plaza-Sembawang-Yishun-Singapore.jpg",
+            "floor": 3,
+            "doorNumber": 2,
+            "inventory": []
+        },
+        {
+            "id": "Jadescape",
+            "title": "JadeScape",
+            "address": "314, Shunfu Road, 570314, Ang Mo Kio",
+            "image": "https://sg1-cdn.pgimgs.com/listing/24215038/UPHO.138873478.V800/JadeScape-Ang-Mo-Kio-Bishan-Thomson-Singapore.jpg",
+            "floor": 5,
+            "doorNumber": 10,
+            "inventory": []
+        },
+        {
+            "id": "Henley-Gardens",
+            "title": "Henley Gardens",
+            "address": "Jalan Arif, 545000, Hougang",
+            "image": "https://sg2-cdn.pgimgs.com/listing/23555180/UPHO.129552415.V800/Henley-Gardens-Hougang-Punggol-Sengkang-Singapore.jpg",
+            "floor": 1,
+            "doorNumber": 4,
+            "inventory": []
+        },
+        {
+            "id": "Former-Farrer-Court",
+            "title": "Former Farrer Court",
+            "address": "1, Leedon Heights, 267939, Tanglin ",
+            "image": "https://sg1-cdn.pgimgs.com/listing/21532855/UPHO.101884084.V800/d-Leedon-Former-Farrer-Court-Tanglin-Holland-Bukit-Timah-Singapore.jpg",
+            "floor": 10,
+            "doorNumber": 8,
+            "inventory": []
+        },
+        {
+            "id": "222-Serangoon-Avenue-4",
+            "title": "222 Serangoon Avenue 4",
+            "address": "222, Serangoon Avenue 4, 550222, Serangoon Estate",
+            "image": "https://sg1-cdn.pgimgs.com/projectnet-project/14416/ZPPHO.96950356.R550X550/222-Serangoon-Avenue-4-Hougang-Punggol-Sengkang-Singapore.jpg",
+            "floor": 4,
+            "doorNumber": 4,
+            "inventory": []
+        },
+        {
+            "id": "89-Dawson-Road",
+            "title": "89 Dawson Road",
+            "address": "89, Dawson Road, 142089, Queenstown Estate",
+            "image": "https://sg1-cdn.pgimgs.com/listing/23857680/UPHO.139063174.V800/89-Dawson-Road-Alexandra-Commonwealth-Singapore.jpg",
+            "floor": 9,
+            "doorNumber": 2,
+            "inventory": []
+        },
+        {
+            "id": "Watertown",
+            "title": "Watertown",
+            "address": "75, Punggol Central, 828757, Hougang",
+            "image": "https://sg2-cdn.pgimgs.com/listing/24254899/UPHO.138677345.V800/Watertown-Hougang-Punggol-Sengkang-Singapore.jpg",
+            "floor": 5,
+            "doorNumber": 7,
+            "inventory": []
+        }
+    ],
+    "inventory": [
+        {
+            "id": "Samsung-LED-TV",
+            "name": "Samsung LED TV",
+            "image": "https://images.samsung.com/is/image/samsung/in-uhdtv-nu7100-ua65nu7100klxl-185768426?$650_519_PNG$"
+        },
+        {
+            "id": "Samsung-Blu-Ray-Player",
+            "name": "Samsung Blu Ray Player",
+            "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2008/07/8268-HTBD2front-1.jpg"
+        },
+        {
+            "id": "DVR-Receiver",
+            "name": "DVR Receiver",
+            "image": "https://cdn.vox-cdn.com/thumbor/aNH1t0wgKFguTiNbDVimgdwXzjo=/0x0:1037x714/2000x1333/filters:focal(518x357:519x358)/cdn.vox-cdn.com/uploads/chorus_asset/file/13874318/u-verse-wireless-set-top.1419962558.jpg"
+        },
+        {
+            "id": "Cordless-Telephone",
+            "name": "Cordless Telephone",
+            "image": "https://m.media-amazon.com/images/W/WEBP_402378-T1/images/I/71SNWFCveNL._AC_SL1500_.jpg"
+        },
+        {
+            "id": "Telephone-Adapter-Module",
+            "name": "Telephone Adapter Module",
+            "image": "https://www.cisco.com/content/dam/assets/swa/img/600/phone-adapter-600x400.jpg"
+        }
+    ]
+}
