@@ -2,12 +2,14 @@
   "private": true,
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "concurrently \"nuxt dev\" \"json-server --watch db.json --port 3004\"",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "concurrently": "^7.6.0",
+    "json-server": "^0.17.1",
     "nuxt": "3.0.0"
   }
 }
