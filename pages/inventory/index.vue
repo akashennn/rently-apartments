@@ -11,6 +11,14 @@
                 </h2>
             </div>
         </div>
+
+        <!-- Add new inventory item card -->
+        <div key="new-item" class="card bg-base-100 shadow-xl rounded-none" @click="navigateTo('/inventory/new-item')">
+            <div class="flex flex-1 justify-center items-center">
+                <img src="https://cdn-icons-png.flaticon.com/512/32/32339.png" alt="New Inventory Item Image"
+                    class="flex object-contain h-[300px] w-full" />
+            </div>
+        </div>
     </div>
 </template>
 
